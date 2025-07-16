@@ -20,3 +20,9 @@ pandas – for data manipulation
 matplotlib / seaborn – for data visualization
 regex – for extracting dates and cleaning strings
 
+🚀 How to Run
+Clone this repo:
+git clone https://github.com/yourusername/Book-Analysis-Project.git
+cd Book-Analysis-Project
+Open Untitled11.ipynb in Jupyter Notebook or Google Colab
+
